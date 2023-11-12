@@ -425,6 +425,8 @@
     .box-registro,
   .box-login{
     width: 60%;
-    background-color: cadetblue;
+  }
+  .box-login{
+    margin-bottom: 61px;
   }
 }
