@@ -41,14 +41,12 @@
     width: 80%;
     border: none;
     height: 30px;
-    border-radius: 5px 0 0 5px;
 }
 .box-search button{
     width: 10%;
     border: none;
     height: 30px;
     cursor: pointer;
-    border-radius: 0 5px 5px 0;
 }
 .box-navbar ul li:hover{
     color: #39b54a;
